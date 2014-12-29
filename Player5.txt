@@ -1,0 +1,8 @@
+clubs 3
+diamonds queen
+hearts 7
+hearts king
+diamonds 4
+spades 8
+diamonds jack
+spades king

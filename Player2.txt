@@ -1,0 +1,8 @@
+clubs 2
+spades 10
+hearts ace
+clubs king
+diamonds 10
+diamonds 9
+hearts 10
+spades 7
