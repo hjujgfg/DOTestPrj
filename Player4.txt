@@ -1,8 +1,0 @@
-hearts 4
-diamonds ace
-clubs ace
-spades ace
-spades 9
-clubs queen
-hearts 2
-diamonds 7

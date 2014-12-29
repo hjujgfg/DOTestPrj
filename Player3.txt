@@ -1,8 +1,0 @@
-diamonds 8
-spades jack
-clubs 7
-hearts 6
-spades 6
-spades 4
-hearts 3
-diamonds 3
